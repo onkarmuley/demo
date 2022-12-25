@@ -11,10 +11,16 @@ df = df.withColumnRenamed("zip","sal").withColumnRenamed("state","dept")
 win = Window.partitionBy(col("dept")).orderBy(col("sal").desc())
 
 df = df.select("first_name","dept","sal")
+'''
 df = df.withColumn("lead", lead("sal").over(win))\
     .withColumn("lag", lag("sal").over(win))\
     .withColumn("first", first("sal").over(win))\
     .withColumn("last", last("sal").over(win))\
     .withColumn("cum-dist", cume_dist().over(win))
+'''
 
-df.show(40)
+win = Window.partitionBy(col("dept"), col("first_name")).orderBy(col("dept"), col("first_name").desc())
+
+df = df.withColumn("rnk", dense_rank().over(win))
+a= int(df.count())
+df.show(n=a)
