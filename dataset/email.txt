@@ -1,0 +1,46 @@
+Chat Log   C:\Users\venuj\Documents\ChatLog Scala intro May 4 2020_05_04 22_48.rtf
+
+Singh Rajawat, Aditya (Private): 8:22 PM: Hi Venu, I have shared link with Amartya 
+Singh Rajawat, Aditya (Private): 8:23 PM: he is my colleague 
+Ujjwal (to Everyone): 8:25 PM: how to use system audio instead of call
+AJ (to Everyone): 8:31 PM: Hello Guys
+PradeepBS (to Everyone): 8:31 PM: yes
+AJ (to Everyone): 8:35 PM: cmd
+Charlie (to Everyone): 8:36 PM: java -version
+venu spark trainer (to Everyone): 8:38 PM: https://downloads.lightbend.com/scala/2.11.12/scala-2.11.12.msi
+venu spark trainer (to Everyone): 8:40 PM: https://www.jetbrains.com/idea/download/#section=windows
+AMARTYA KUNDU (Private): 8:41 PM: how to download java?
+venu spark trainer (to Everyone): 8:42 PM: https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
+venu spark trainer (to Everyone): 8:44 PM: venumssi@gmail.com
+venu spark trainer (to Everyone): 8:44 PM: Opassword.1
+jaideo . (to Everyone): 8:50 PM: 9
+jaideo . (to Everyone): 8:50 PM: 8+1
+jaideo . (to Everyone): 9:20 PM: divide by 0
+PradeepBS (to Everyone): 9:24 PM: venu your voice is not properly audible for me!
+venu spark trainer (to Everyone): 9:27 PM: pradeep pls rejoin 
+venu spark trainer (to Everyone): 9:34 PM: https://www.youtube.com/watch?v=IsrwyHcUCx8
+venu spark trainer (to Everyone): 9:34 PM: https://www.youtube.com/watch?v=8t19MyK95p0
+venu spark trainer (to Everyone): 9:35 PM: https://www.youtube.com/watch?v=ql95CrGob48
+PradeepBS (to Everyone): 9:44 PM: how about scala in windows?
+venu spark trainer (to Everyone): 9:45 PM: export TERM=xterm-color
+AJ (to Everyone): 9:49 PM: rahzaaj@gmail.com
+Microsoft account (to Everyone): 9:49 PM: pnr555@gmail.com
+Charlie (to Everyone): 9:50 PM: pulsarnandhu@yahoo.com
+Hi (to Everyone): 9:50 PM: lokendra,gn@gmail.com
+Priscila Espinoza (to Everyone): 9:50 PM: priscilawendy00@gmail.com 
+PradeepBS (to Everyone): 9:50 PM: shared
+Ratnaraj (to Everyone): 9:50 PM: ratnaraj710@gmail.com
+PradeepBS (to Everyone): 9:51 PM: not finding java.dll
+Tanveer (to Everyone): 9:53 PM: TANVEER.ISIDDIQUI@GMAIL.COM 
+Hi (to Everyone): 9:56 PM: not able to here you
+SriHarsha (to Everyone): 9:58 PM: why do we prefer scala for spark?
+PradeepBS (to Everyone): 9:59 PM: venu it's too much breaking and not able to understand and follow 
+Charlie (to Everyone): 10:01 PM: your voice is sound clear
+Rajesh Kumar (to Everyone): 10:31 PM: rknagar08@gmail.com
+PradeepBS (to Everyone): 10:31 PM: pradeepbs78@yahoo.com
+AMARTYA KUNDU (to Everyone): 10:31 PM: amartyaanup@gmail.com
+Premnath RJ (to Everyone): 10:32 PM: bigdataprem@gmail.com
+PradeepBS (to Everyone): 10:32 PM: venu pls check mine 
+venu spark trainer (to Everyone): 10:43 PM: https://stackoverflow.com/questions/9313353/error-when-checking-java-version-could-not-find-java-dll
+PradeepBS (to Everyone): 10:47 PM: Omg done, thanks
+PradeepBS (to Everyone): 10:48 PM: pls mail the recording
